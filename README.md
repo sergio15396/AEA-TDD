@@ -22,4 +22,4 @@ Este repositorio automatiza la ejecución de pruebas unitarias del proyecto AEA-
 * Verifica que todas las dependencias estén actualizadas en el workflow.
 
 ## Licencia
-El framework Laravel es un programario de código abierto licenciado bajo la [licéncia MIT](https://opensource.org/licenses/MIT).
+El framework Laravel es un programario de código abierto licenciado bajo la [licencia MIT](https://opensource.org/licenses/MIT).
